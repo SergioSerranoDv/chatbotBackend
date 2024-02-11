@@ -4,5 +4,5 @@ To start working in the project follow the nexts steps:
 2. Clone the repository.
 4. Install librares => pip install requirements.txt
 
-## Start the serve 
+## Start the server 
 To run the project execute the command python manage.py runserver
