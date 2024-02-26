@@ -3,7 +3,7 @@ To start working in the project follow the nexts steps:
 1. Create a virtual env.
 2. Clone the repository.
 4. Install librares => pip install requirements.txt
-5. Testing pipeline implementation.
+5. Testing again the pipeline implementation.
 
 ## Start the server 
 To run the project execute the command python manage.py runserver
